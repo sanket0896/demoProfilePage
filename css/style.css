@@ -1,0 +1,46 @@
+body{
+	color: #002201;
+	background-color: #48fcd2;
+	font-family: 'Roboto',sans-serif;
+}
+
+header{
+	width: 100%;
+    margin: 15px 0 10px 0;
+    background-color: #fff;
+
+}
+
+ul{
+	list-style: none;
+	display: inline;
+
+}
+
+#menu1, #menu2, #menu3{
+	float: right;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color: #547
+}
+
+
+#myName{
+	font-family: 'Sriracha', cursive;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+#navBar{
+    border-radius: 0;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+}
+
+#cont1{
+
+	padding-top: 0;
+}
