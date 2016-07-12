@@ -1,0 +1,11 @@
+
+
+	TO-DO
+
+# Add menu content to collapsable nav bar
+# Add actual content to all divs
+
+
+	FUTURE WORK
+
+#make all content see-able only when the user scrolls till them
